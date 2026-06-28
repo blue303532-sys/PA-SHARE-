@@ -1,0 +1,6 @@
+{
+  "name": "PA Share+ ตู้ปันสุขนักศึกษา",
+  "description": "ระบบปันสุขและรับบริจาคสิ่งของสำหรับนักศึกษาสาขารัฐประศาสนศาสตร์ คณะมนุษยศาสตร์และสังคมศาสตร์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
